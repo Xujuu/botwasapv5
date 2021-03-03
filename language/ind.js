@@ -265,10 +265,10 @@ ${a}❏ABOUT BOT${a}
  
 ${a}❏THANGKS TO${a}
  ${a}│${a}
- ${a}│ • AFFIS JUNIANTO <dev>${a}
- ${a}│ • FADHIL GRAPHY <partner>${a}
- ${a}│ • MHANKBARBARS <sc ori>${a}
- ${a}│ • MYBOT TEAM <team>${a}
+ ${a}│ • JUAN JULIANSYAH PRATAMA <dev>${a}
+ ${a}│ • REVOLUTION OF HEAVEN
+ ${a}│ • Xuuujuuu X Ramlan666 <sc ori>${a}
+ ${a}│ • LILBOT TEAM <team>${a}
  ${a}│${a}
  ${a}╰ • NOTE : jangan ngemis${a}
 `

@@ -40,21 +40,21 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Affis Admin\n' 
-            + 'ORG: Pengembang XBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 823-3429-7175\n' 
+            + 'FN: Xuujuuu\n' 
+            + 'ORG: Pencari Pap TT;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6285755193244:+62 857-5519-3244\n' 
             + 'END:VCARD' 
 blocked = []   
-prefix = '#'
+prefix = '.'
 limitawal = 30
 memberlimit = 0
-ator = 'SUBSCRIBE'
-namo = 'AMPIBI GAMING'
-cr = '*BOT INI SUDAH TERVERIFIKASI*'
+ator = 'DONASI'
+namo = 'GOPAY = 083119241245'
+cr = '*VERIFIED*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["62895710073737@s.whatsapp.net","6282334297175@s.whatsapp.net"] 
+const ownerNumber = ["6285755193244@s.whatsapp.net","6285755193244@s.whatsapp.net"] 
 /************************************/
 
        

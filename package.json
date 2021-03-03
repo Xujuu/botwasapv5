@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "LiL BOT",
   "version": "1.0.0",
-  "description": "Xbot for whatsapp online with termux",
+  "description": "LiL BOT for whatsapp online with termux",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,15 +14,15 @@
   "keywords": [
     "k"
   ],
-  "author": "affis junianto",
+  "author": "Juan Juliansyah",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2.git"
+    "url": "git+https://github.com/Xujuu/botwasapv2.git"
   },
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasapv2/issues"
+    "url": "https://github.com/Xujuu/botwasapv2/issues"
   },
-"homepage": "https://github.com/affisjunianto/botwasapv2/readme",
+"homepage": "https://github.com/Xujuu/botwasapv2/readme",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
